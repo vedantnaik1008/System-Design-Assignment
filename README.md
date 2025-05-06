@@ -113,7 +113,7 @@ To get started with this design system, clone the repository and install the dep
 bash
 Copy
 Edit
-git clone 
+git clone https://github.com/vedantnaik1008/System-Design-Assignment.git
 cd design-system
 npm install
 To start the development server and view the Storybook:
